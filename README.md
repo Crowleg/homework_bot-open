@@ -1,1 +1,2 @@
-# homework_bot-open
+# homework_bot
+python telegram bot
